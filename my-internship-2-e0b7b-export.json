@@ -1,0 +1,1357 @@
+{
+  "attendance" : {
+    "2020-12-01" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-02" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-03" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-04" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-07" : {
+      "44FCS-TB11" : {
+        "S18258231A" : {
+          "EntryTime" : "11:17:32",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Late"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:12:06.961",
+          "LeaveTime" : "18:04:57.612",
+          "Name" : "Diana Hol",
+          "Status" : "Late"
+        }
+      }
+    },
+    "2020-12-08" : {
+      "64BASRS-PB11" : {
+        "S18268231A" : {
+          "EntryTime" : "14:00",
+          "Name" : "Aafaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "64CCADC-LB12" : {
+        "S18268231A" : {
+          "EntryTime" : "10:00",
+          "Name" : "Aafaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:01:45.845",
+          "LeaveTime" : "18:06:35.951",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-09" : {
+      "7EN-T04B" : {
+        "S18268231A" : {
+          "MC Link" : "",
+          "Name" : "Aafaq Bin Mikhail Syed",
+          "Status" : "MC"
+        }
+      },
+      "7WISP-T48B" : {
+        "S18268231A" : {
+          "EntryTime" : "15:00",
+          "Name" : "Aafaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:00:48.745",
+          "LeaveTime" : "23:41:19.049",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-10" : {
+      "64CCADC-PB11" : {
+        "S18268231A" : {
+          "EntryTime" : "10:02:29.135",
+          "Name" : "Aafaq Bin Mikhail Syed",
+          "Status" : "Present",
+          "userid" : "S18268231A"
+        }
+      },
+      "64LNXSR-PB11" : {
+        "S18268231A" : {
+          "EntryTime" : "14:11:49.942",
+          "Name" : "Aafaq Bin Mikhail Syed",
+          "Status" : "Late"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:04:30.585",
+          "LeaveTime" : "18:17:41.106",
+          "Name" : "Diana Hol",
+          "Status" : "Present",
+          "userid" : "S10210798U"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:10:46.726",
+          "LeaveTime" : "18:23:02.152",
+          "Name" : "Jessica Ryou",
+          "Status" : "Late",
+          "userid" : "S10398533J"
+        }
+      }
+    },
+    "2020-12-11" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-14" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-15" : {
+      "64CCADC-LB12" : {
+        "S18258231A" : {
+          "EntryTime" : "10:02:38",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-16" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-17" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-18" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-21" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:07:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Late"
+        },
+        "S10398533J" : {
+          "EntryTime" : "16:55:37.76",
+          "LeaveTime" : "18:02:52.962",
+          "Name" : "Jessica Ryou",
+          "Status" : "Late"
+        }
+      }
+    },
+    "2020-12-22" : {
+      "64CCADC-LB12" : {
+        "S11012043U" : {
+          "EntryTime" : "10:02:50",
+          "Name" : "Damien Lim",
+          "Status" : "Present"
+        },
+        "S18258231A" : {
+          "EntryTime" : "10:04:31",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        },
+        "S22134060K" : {
+          "EntryTime" : "10:07:01",
+          "Name" : "Jake Walker",
+          "Status" : "Late"
+        },
+        "S28385734P" : {
+          "EntryTime" : "10:15:21",
+          "Name" : "Daniel Chiew",
+          "Status" : "Late"
+        },
+        "S34566791Y" : {
+          "EntryTime" : "10:02:23",
+          "Name" : "Zacharius Wong",
+          "Status" : "Present"
+        },
+        "S46807959M" : {
+          "EntryTime" : "10:04:11",
+          "Name" : "Tammy Barrett",
+          "Status" : "Present"
+        },
+        "S59630773I" : {
+          "EntryTime" : "10:01:05",
+          "Name" : "Lucas Glisson",
+          "Status" : "Present"
+        },
+        "S64356123H" : {
+          "EntryTime" : "10:02:21",
+          "Name" : "Jeff Huang",
+          "Status" : "Present"
+        },
+        "S77935428W" : {
+          "EntryTime" : "10:00:50",
+          "Name" : "Nicholas Wong",
+          "Status" : "Present"
+        },
+        "S82374619R" : {
+          "EntryTime" : "10:04:59",
+          "Name" : "Muḥammad ibn Salmān",
+          "Status" : "Present"
+        },
+        "S94386721W" : {
+          "EntryTime" : "10:11:59",
+          "Name" : "Judy Lim",
+          "Status" : "Late"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "LeaveTime" : "10:27:28.228",
+          "MC Link" : "",
+          "Name" : "Diana Hol",
+          "Status" : "MC"
+        }
+      }
+    },
+    "2020-12-23" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-24" : {
+      "64CCADC-PB11" : {
+        "S34257827P" : {
+          "EntryTime" : "10:00",
+          "Name" : "Michael Chuan",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "07:55:48.928",
+          "LeaveTime" : "12:01:35.160",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-28" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-29" : {
+      "64CCADC-LB12" : {
+        "S11012043U" : {
+          "EntryTime" : "10:01:28",
+          "Name" : "Damien Lim",
+          "Status" : "Present"
+        },
+        "S18258231A" : {
+          "EntryTime" : "10:03:45",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        },
+        "S22134060K" : {
+          "EntryTime" : "10:03:01",
+          "Name" : "Jake Walker",
+          "Status" : "Present"
+        },
+        "S28385734P" : {
+          "EntryTime" : "10:15:21",
+          "Name" : "Daniel Chiew",
+          "Status" : "Late"
+        },
+        "S34566791Y" : {
+          "EntryTime" : "10:01:51",
+          "Name" : "Zacharius Wong",
+          "Status" : "Present"
+        },
+        "S46807959M" : {
+          "EntryTime" : "10:04:11",
+          "Name" : "Tammy Barrett",
+          "Status" : "Present"
+        },
+        "S59630773I" : {
+          "EntryTime" : "10:02:50",
+          "Name" : "Lucas Glisson",
+          "Status" : "Present"
+        },
+        "S64356123H" : {
+          "EntryTime" : "10:09:33",
+          "Name" : "Jeff Huang",
+          "Status" : "Late"
+        },
+        "S77935428W" : {
+          "EntryTime" : "10:03:09",
+          "Name" : "Nicholas Wong",
+          "Status" : "Present"
+        },
+        "S82374619R" : {
+          "EntryTime" : "10:06:59",
+          "Name" : "Muḥammad ibn Salmān",
+          "Status" : "Present"
+        },
+        "S94386721W" : {
+          "EntryTime" : "10:04:39",
+          "Name" : "Judy Lim",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "07:56:12.853",
+          "LeaveTime" : "18:12:50.829",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-30" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "07:57:03.121",
+          "LeaveTime" : "17:49:53.934",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2020-12-31" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:01:12.852",
+          "LeaveTime" : "12:06:48.052",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-04" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:04:25.912",
+          "LeaveTime" : "18:05:47.653",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-05" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:12:35.273",
+          "LeaveTime" : "18:05:12.860",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-06" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-07" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-08" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-11" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:00:10.482",
+          "LeaveTime" : "18:00:49.959",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-12" : {
+      "64CCADC-LB12" : {
+        "S18258231A" : {
+          "EntryTime" : "10:33:38.619",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:00:95.593",
+          "LeaveTime" : "18:00:00.122",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:15:42.256",
+          "LeaveTime" : "18:05:23.903",
+          "Name" : "Jessica Ryou",
+          "Status" : "Late"
+        }
+      }
+    },
+    "2021-01-13" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-14" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-15" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-18" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-19" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-20" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-21" : {
+      "64CCADC-PB11" : {
+        "S18258231A" : {
+          "EntryTime" : "10:06:00.12",
+          "Name" : "Aaafaaq Bin Mikhail Syed",
+          "Status" : "Late"
+        }
+      },
+      "64LNXSR-PB11" : {
+        "S18258231A" : {
+          "EntryTime" : "14:04:29.69",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:12:12.906",
+          "LeaveTime" : "17:57:05.622",
+          "Name" : "Diana Hol",
+          "Status" : "Late"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-22" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "07:58:12.906",
+          "LeaveTime" : "18:01:59.287",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-25" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-26" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-27" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-28" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-01-29" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-01" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-02" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-03" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-04" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-05" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-08" : {
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-09" : {
+      "64CCADC-LB12" : {
+        "S18258231A" : {
+          "EntryTime" : "10:20:34",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Late"
+        }
+      },
+      "64LNXSR-PB11" : {
+        "S18258231A" : {
+          "EntryTime" : "08:03:41",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "05:13:15.949",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-10" : {
+      "7EN-T04B" : {
+        "S18258231A" : {
+          "EntryTime" : "13:04:28",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "7WISP-T48B" : {
+        "S18258231A" : {
+          "EntryTime" : "15:01:39",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-11" : {
+      "64CCADC-PB11" : {
+        "S18258231A" : {
+          "EntryTime" : "10:02:23",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "64LNXSR-PB11" : {
+        "S18258231A" : {
+          "EntryTime" : "14:00:12",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-12" : {
+      "44FCS-LB12" : {
+        "S18258231A" : {
+          "EntryTime" : "10:06:49",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Late"
+        }
+      },
+      "44FCS-PB11" : {
+        "S18258231A" : {
+          "EntryTime" : "08:01:48",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "08:03:08.258",
+          "LeaveTime" : "17:55:55.556",
+          "Name" : "Diana Hol",
+          "Status" : "Present"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:02:30",
+          "LeaveTime" : "18:00:12",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    },
+    "2021-02-15" : {
+      "44FCS-TB11" : {
+        "S18258231A" : {
+          "EntryTime" : "11:02:45",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        },
+        "S28385734P" : {
+          "EntryTime" : "11:06:43",
+          "Name" : "Daniel Chew",
+          "Status" : "Late"
+        },
+        "S64356123H" : {
+          "EntryTime" : "11:04:12",
+          "Name" : "Jeff Huang",
+          "Status" : "Present"
+        }
+      },
+      "64BASRS-TB11" : {
+        "S18258231A" : {
+          "EntryTime" : "08:00:22",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Present"
+        },
+        "S28385734P" : {
+          "EntryTime" : "08:01:09",
+          "Name" : "Daniel Chew",
+          "Status" : "Present"
+        },
+        "S55842074B" : {
+          "EntryTime" : "08:02:05",
+          "Name" : "Batman bin Suparman",
+          "Status" : "Present"
+        }
+      },
+      "FYP-IP08" : {
+        "S10458291J" : {
+          "EntryTime" : "13:00:58",
+          "Name" : "Idonno ",
+          "Status" : "Present"
+        },
+        "S18258231A" : {
+          "EntryTime" : "13:42:45.581",
+          "Name" : "Aafaaq Bin Mikhail Syed",
+          "Status" : "Late"
+        }
+      },
+      "Internship" : {
+        "S10210798U" : {
+          "EntryTime" : "13:44:44.968",
+          "LeaveTime" : "13:44:49.731",
+          "Name" : "Diana Hol",
+          "Status" : "Late"
+        },
+        "S10398533J" : {
+          "EntryTime" : "08:01:02",
+          "LeaveTime" : "18:01:23",
+          "Name" : "Jessica Ryou",
+          "Status" : "Present"
+        }
+      }
+    }
+  },
+  "internlogs" : {
+    "-MMPeXnmQU7c6bDPZ4Zd" : {
+      "author" : "Diana Hol",
+      "body" : "Cheese Chicken Wings are nice, buy them, eat them, CONSUME CONSUME CONSUME.",
+      "date" : "18 November 2020",
+      "userid" : "S10210798U"
+    },
+    "-MMPhjqM73A1lLsFZwED" : {
+      "author" : "Diana Hol",
+      "date" : "17 November 2020",
+      "log" : "Day 5: Chicken lunch, I wonder if there's anything else in the pantry. ",
+      "userid" : "S10210798U"
+    },
+    "-MMPqkDAKFuLrTRGfB39" : {
+      "author" : "Diana Hol",
+      "date" : "19 November 2020",
+      "log" : "Chicken for the sixth time? what is going on????",
+      "userid" : "S10210798U"
+    },
+    "-MMZH8VVdPGaz3zkkSFD" : {
+      "author" : "Diana Hol",
+      "date" : "20 November 2020",
+      "log" : "Day 7: Im horrified, where is all this chicken coming from.",
+      "userid" : "S10210798U"
+    },
+    "-MMtDb5EKGR6vSG92hiD" : {
+      "author" : "Diana Hol",
+      "date" : "24 November 2020",
+      "log" : "Testing lol\n",
+      "userid" : "S10210798U"
+    },
+    "-MMyaEtDmPGmRXPVcvKv" : {
+      "author" : "Diana Hol",
+      "date" : "25 November 2020",
+      "log" : "bananas",
+      "userid" : "S10210798U"
+    },
+    "-MN2vcq64pMAEKks8Zv4" : {
+      "author" : "Diana Hol",
+      "date" : "26 November 2020",
+      "log" : "Today is the 26th of November, a Thursday.",
+      "userid" : "S10210798U"
+    },
+    "-MN7NESdd36Z0jNrTbTB" : {
+      "author" : "Diana Hol",
+      "date" : "27 November 2020",
+      "log" : "27th November, had some chicken rice, that was nice. VERY VERY NICE.",
+      "userid" : "S10210798U"
+    },
+    "-MNMq5dZ_UD5glPQKGS8" : {
+      "author" : "Diana Hol",
+      "date" : "30 November 2020",
+      "log" : "fffgggayggg\n i not :<",
+      "userid" : "S10210798U"
+    },
+    "-MNrl9BjgxW5a6MtCii-" : {
+      "author" : "Diana Hol",
+      "date" : "07 December 2020",
+      "log" : "dear diary today I am a little more than a pan-sector hahhaha",
+      "userid" : "S10210798U"
+    },
+    "-MNyJZHRD8dIkAQob1wo" : {
+      "author" : "Diana Hol",
+      "date" : "08 December 2020",
+      "log" : "Now Playing: Lofi Hip-Hop beats to study to",
+      "userid" : "S10210798U"
+    },
+    "-MOV_Dy5zvInx6H8A9u3" : {
+      "author" : "Diana Hol",
+      "date" : "14 December 2020",
+      "log" : "Hand the monitor over.",
+      "userid" : "S10210798U"
+    },
+    "-MOVgK_0iZEvEvve1595" : {
+      "author" : "Jessica Ryou",
+      "date" : "14 December 2020",
+      "log" : "I... I really did it? I managed to protect everyone by myself?",
+      "userid" : "S10398533J"
+    },
+    "-MOzrTG-uaEupVRdgh21" : {
+      "author" : "Diana Hol",
+      "date" : "20 December 2020",
+      "log" : "Tomorrow, the interim report is due. Can't seem to find any guidelines for the report's structure. I should find it somewhere though. Hopefully.\n\nI realise the phone's timing was different from the actual time. That's why it wouldn't work \n\nAlso test test 123",
+      "userid" : "S10210798U"
+    },
+    "-MOzsyghHaMeDDWlJ2XG" : {
+      "author" : "Jessica Ryou",
+      "date" : "20 December 2020",
+      "log" : "testing log to see if the student can see the log and update it on the same day once it has been updated.\n\nAs well as check if the display for the NPIS staff can be scrolled if text goes off screen.\n\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\nv\n\nit can",
+      "userid" : "S10398533J"
+    },
+    "-MP-v1cfd59ft6mwL2gu" : {
+      "author" : "Jessica Ryou",
+      "date" : "21 December 2020",
+      "log" : "Today we STRIVE FOR GREATNESS\nCheese prata at the coffeeshop is only $2.00, not bad.",
+      "userid" : "S10398533J"
+    },
+    "-MP2idp5VI5LEvCxKMC7" : {
+      "author" : "Diana Hol",
+      "date" : "21 December 2020",
+      "log" : "just testing once again. Through the phone this time. If the app works, it works.",
+      "userid" : "S10210798U"
+    },
+    "-MP7DuITkeZaEkhlHQMo" : {
+      "author" : "Diana Hol",
+      "date" : "22 December 2020",
+      "log" : "today last day before going on leave happy holiday",
+      "userid" : "S10210798U"
+    },
+    "-MQpj0kzl-RfJrMAgsaw" : {
+      "author" : "Jessica Ryou",
+      "date" : "12 January 2021",
+      "log" : "Today is the 12th of January, why do I need to write daily logs? Isn't this supposed to be a weekly thing?",
+      "userid" : "S10398533J"
+    },
+    "-MQvF9id5-hUY0ekuSiJ" : {
+      "author" : "Diana Hol",
+      "date" : "13 January 2021",
+      "log" : "So new commits. Oh-\n\nThis needs some padding. Way too close to the sides it makes me angry.\n\nCan you believe it 2021? Where did the time go?\n\nOkay fixed thank god",
+      "userid" : "S10210798U"
+    },
+    "-MRKxyP0d51VUDpXodJV" : {
+      "author" : "Diana Hol",
+      "date" : "18 January 2021",
+      "log" : "Cheese and ham",
+      "userid" : "S10210798U"
+    },
+    "-MS1u_ANJVt7irseD1ac" : {
+      "author" : "Diana Hol",
+      "date" : "27 January 2021",
+      "log" : "Bananas",
+      "userid" : "S10210798U"
+    },
+    "-MS74W8YVuLjs_kxTZqH" : {
+      "author" : "Diana Hol",
+      "date" : "28 January 2021",
+      "log" : "Nene Chicken for dinner?",
+      "userid" : "S10210798U"
+    },
+    "-MSCasFxDzeAWmpos6ux" : {
+      "author" : "Diana Hol",
+      "date" : "29 January 2021",
+      "log" : "January is going to end soon and so is my final semester of poly :(.",
+      "userid" : "S10210798U"
+    },
+    "-MSbiopnQXBxhYuyxjQw" : {
+      "author" : "Diana Hol",
+      "date" : "03 February 2021",
+      "log" : "Why did the chewing gum cross the road? ",
+      "userid" : "S10210798U"
+    },
+    "-MTX1T0XS8D34VBowDwB" : {
+      "author" : "Diana Hol",
+      "date" : "15 February 2021",
+      "log" : "OH NO I'VE GOTTA PRESENT SOM",
+      "userid" : "S10210798U"
+    }
+  },
+  "users" : {
+    "S10210798U" : {
+      "Course" : "ECE",
+      "Modules" : {
+        "Internship" : {
+          "EndAt" : "18:00",
+          "Location" : "18 Yung Ho Road",
+          "StartAt" : "08:00"
+        }
+      },
+      "Name" : "Diana Hol",
+      "School" : "SoE",
+      "StudID" : "S10210798U",
+      "address" : "18 Yung Ho Road",
+      "email" : "s10210798@np.edu.sg",
+      "group" : "intern",
+      "internlogids" : {
+        "03 February 2021" : "-MSbiopnQXBxhYuyxjQw",
+        "07 December 2020" : "-MNrl9BjgxW5a6MtCii-",
+        "08 December 2020" : "-MNyJZHRD8dIkAQob1wo",
+        "13 January 2021" : "-MQvF9id5-hUY0ekuSiJ",
+        "14 December 2020" : "-MOV_Dy5zvInx6H8A9u3",
+        "15 February 2021" : "-MTX1T0XS8D34VBowDwB",
+        "17 November 2020" : "-MMPhjqM73A1lLsFZwED",
+        "18 January 2021" : "-MRKxyP0d51VUDpXodJV",
+        "18 November 2020" : "-MMPeXnmQU7c6bDPZ4Zd",
+        "19 November 2020" : "-MMPqkDAKFuLrTRGfB39",
+        "20 December 2020" : "-MOzrTG-uaEupVRdgh21",
+        "20 November 2020" : "-MMZH8VVdPGaz3zkkSFD",
+        "21 December 2020" : "-MP2idp5VI5LEvCxKMC7",
+        "22 December 2020" : "-MP7DuITkeZaEkhlHQMo",
+        "24 November 2020" : "-MMtK-AyWUSvxduihqlJ",
+        "25 November 2020" : "-MMyaEtDmPGmRXPVcvKv",
+        "26 November 2020" : "-MN2vcq64pMAEKks8Zv4",
+        "27 January 2021" : "-MS1u_ANJVt7irseD1ac",
+        "27 November 2020" : "-MN7NESdd36Z0jNrTbTB",
+        "28 January 2021" : "-MS74W8YVuLjs_kxTZqH",
+        "29 January 2021" : "-MSCasFxDzeAWmpos6ux",
+        "30 November 2020" : "-MNMq5dZ_UD5glPQKGS8"
+      },
+      "password" : "password1",
+      "postal" : "618591"
+    },
+    "S10398533J" : {
+      "Course" : "VE",
+      "Modules" : {
+        "Internship" : {
+          "EndAt" : "18:00",
+          "Location" : "3 Columbia Road",
+          "StartAt" : "08:00"
+        },
+        "Monday" : {
+          "Internship " : {
+            "EndAt" : "18:00",
+            "Location" : "Maju Drive",
+            "Name" : "Internship",
+            "StartAt" : "08:00"
+          }
+        },
+        "Tuesday" : {
+          "Internship" : {
+            "EndAt" : "18:00",
+            "Location" : "Maju Drive",
+            "Name" : "Internship",
+            "StartAt" : "08:00"
+          }
+        },
+        "Wednesday" : {
+          "Internship" : {
+            "EndAt" : "18:00",
+            "Location" : "Maju Drive",
+            "Name" : "Internship",
+            "StartAt" : "08:00"
+          }
+        }
+      },
+      "Name" : "Jessica Ryou",
+      "School" : "FMS",
+      "StudID" : "S10398533J",
+      "address" : "3 Columbia Road",
+      "email" : "s10398533@np.edu.sg",
+      "group" : "intern",
+      "internlogids" : {
+        "12 January 2021" : "-MQpj0kzl-RfJrMAgsaw",
+        "14 December 2020" : "-MOVgK_0iZEvEvve1595",
+        "20 December 2020" : "-MOzsyghHaMeDDWlJ2XG",
+        "21 December 2020" : "-MP-v1cfd59ft6mwL2gu"
+      },
+      "password" : "blacksteel",
+      "postal" : "524562"
+    },
+    "S18258231A" : {
+      "Course" : "ICT",
+      "Modules" : {
+        "Friday" : {
+          "44FCS-LB12" : {
+            "EndAt" : "12:00",
+            "Group" : "LB12",
+            "Location" : "Blk 6 #05-01",
+            "Name" : "44FCS",
+            "StartAt" : "10:00"
+          },
+          "44FCS-PB11" : {
+            "EndAt" : "10:00",
+            "Group" : "PB11",
+            "Location" : "Blk 6 #06-01",
+            "Name" : "44FCS",
+            "StartAt" : "08:00"
+          }
+        },
+        "Monday" : {
+          "44FCS-TB11" : {
+            "EndAt" : "12:00",
+            "Group" : "TB11",
+            "Location" : "Blk 5 #04-06",
+            "Name" : "44FCS",
+            "StartAt" : "11:00"
+          },
+          "64BASRS-TB11" : {
+            "EndAt" : "11:00",
+            "Group" : "TB11",
+            "Location" : "Blk 6 #05-03",
+            "Name" : "64BASRS",
+            "StartAt" : "08:00"
+          },
+          "FYP-PRESENTATION" : {
+            "EndAt" : "14:00",
+            "Group" : "IP08",
+            "Location" : "Blk 8 #01-01",
+            "Name" : "FYP",
+            "StartAt" : "13:00"
+          }
+        },
+        "Thursday" : {
+          "64CCADC-PB11" : {
+            "EndAt" : "13:00",
+            "Group" : "PB11",
+            "Location" : "Blk 6 #05-10",
+            "Name" : "64CCADC",
+            "StartAt" : "10:00"
+          },
+          "64LNXSR-PB11" : {
+            "EndAt" : "16:00",
+            "Group" : "PB11",
+            "Location" : "Blk 6 #05-01",
+            "Name" : "64LNXSR",
+            "StartAt" : "14:00"
+          }
+        },
+        "Tuesday" : {
+          "64BASRS-PB11" : {
+            "EndAt" : "16:00",
+            "Group" : "PB11",
+            "Location" : "Blk 6 #05-03",
+            "Name" : "64BASRS",
+            "StartAt" : "13:00"
+          },
+          "64CCADC-LB12" : {
+            "EndAt" : "12:00",
+            "Group" : "LB12",
+            "Location" : "Blk 6 #05-10",
+            "Name" : "64CCADC",
+            "StartAt" : "10:00"
+          },
+          "64LNXSR-PB11" : {
+            "EndAt" : "10:00",
+            "Group" : "PB11",
+            "Location" : "Blk 6 #05-01",
+            "Name" : "64LNXSR",
+            "StartAt" : "08:00"
+          }
+        },
+        "Wednesday" : {
+          "7EN-T04B" : {
+            "EndAt" : "15:00",
+            "Group" : "T04B",
+            "Location" : "Blk 50 #02-08",
+            "Name" : "7EN",
+            "StartAt" : "13:00"
+          },
+          "7WISP-T48B" : {
+            "EndAt" : "17:00",
+            "Group" : "T48B",
+            "Location" : "Blk 5 #03-04",
+            "Name" : "7WISP",
+            "StartAt" : "15:00"
+          }
+        }
+      },
+      "Name" : "Aafaaq Bin Mikhail Syed",
+      "School" : "IT",
+      "StudID" : "S18258231A",
+      "email" : "s18258231@np.edu.sg",
+      "group" : "student",
+      "password" : "hunter2"
+    },
+    "henrylim" : {
+      "Name" : "Henry Lim",
+      "Supervising" : {
+        "S10210798U" : {
+          "Name" : "Diana Hol",
+          "userid" : "S10210798U"
+        },
+        "S10398533J" : {
+          "Name" : "Jessica Ryou",
+          "userid" : "S10398533J"
+        },
+        "S10489307I" : {
+          "Name" : "Adam Tao",
+          "userid" : "S10489307I"
+        }
+      },
+      "email" : "henry_lim@np.edu.sg",
+      "group" : "npis",
+      "password" : "drowssap",
+      "school" : "SOE"
+    },
+    "michaeltan" : {
+      "Modules" : {
+        "44FCS" : {
+          "TB11" : {
+            "Day" : "Monday",
+            "Time" : "11:00 - 12:00",
+            "Total Students" : 22
+          }
+        },
+        "64BASRS" : {
+          "TB11" : {
+            "Day" : "Monday",
+            "Time" : "08:00 - 11:00",
+            "Total Students" : 22
+          }
+        },
+        "64CCADC" : {
+          "LB12" : {
+            "Day" : "Tuesday",
+            "Time" : "10:00 - 12:00",
+            "Total Students" : 27
+          },
+          "PB11" : {
+            "Day" : "Thursday",
+            "Time" : "10:00 - 13:00",
+            "Total Students" : 30
+          }
+        },
+        "64LNXSR" : {
+          "PB11" : {
+            "Day" : "Thursday",
+            "Time" : "14:00 - 16:00",
+            "Total Students" : 22
+          }
+        },
+        "FYP" : {
+          "IP08" : {
+            "Day" : "Monday",
+            "Time" : "13:00 - 14:00",
+            "Total Students" : 2
+          }
+        }
+      },
+      "Name" : "Michael Tan",
+      "email" : "michael_t_2@np.edu.sg",
+      "group" : "lecturer",
+      "password" : "12345678",
+      "school" : "FMS"
+    }
+  }
+}
